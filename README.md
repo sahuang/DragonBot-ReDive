@@ -79,9 +79,9 @@
 
 ## 其他
 
-- 代码已经过处理，比如SUPERUSER应该填写自己的主要QQ号，以及路径需要填写酷Q data目录下相关完整路径。
+- 代码需要略作改动才能使用，比如SUPERUSER应该填写自己的主要QQ号，以及路径需要填写酷Q data目录下相关完整路径。有其他需求非常欢迎提issue。
 
-- **龙花菜已经加入70+个QQ群，被广泛用于QQ内收听laopo语音或龙图发送。** 服务器和酷Q Pro的费用全是本人自行承担，如果喜欢的话不妨赞助一下，感激不尽！
+- **龙花菜已经加入70+个QQ群，被广泛用于QQ内收听公主连结老婆语音以及龙图发送。** 服务器和酷Q Pro的费用全由本人自行承担，如果喜欢的话不妨赞助一下，感激不尽！
 
 <p align="center"><a href="https://puu.sh/FXo76/92dac2daf7.jpg"><img src="https://cdn.worldvectorlogo.com/logos/wechat.svg" width="70px;" alt="WeChat"/></a>
 
