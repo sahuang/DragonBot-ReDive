@@ -90,5 +90,3 @@
 - 一些B站相关视频：
 
   - [公主连结 全角色看板日常语音 QQ机器人](https://www.bilibili.com/video/BV1PK4y1t7yD)
-  
-  <iframe src="//player.bilibili.com/player.html?aid=883220140&bvid=BV1PK4y1t7yD&cid=190298809&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
