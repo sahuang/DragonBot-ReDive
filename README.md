@@ -85,7 +85,7 @@
 
 <p align="center"><a href="https://puu.sh/FXo76/92dac2daf7.jpg"><img src="https://cdn.worldvectorlogo.com/logos/wechat.svg" width="70px;" alt="WeChat"/></a>
 
-<p align="center"><a href="https://puu.sh/FXo76/92dac2daf7.jpg"><img src="https://cdn.worldvectorlogo.com/logos/alipay-logo.svg" width="200px;" alt="AliPay"/></a>
+<p align="center"><a href="https://puu.sh/FXoc7/d33274b056.jpg"><img src="https://cdn.worldvectorlogo.com/logos/alipay-logo.svg" width="200px;" alt="AliPay"/></a>
 
 - 一些B站相关视频：
 
