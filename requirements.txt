@@ -2,7 +2,7 @@ aiocqhttp~=1.2.5
 ffmpeg==1.4
 hpack==3.0.0
 nonebot==1.6.0
-numpy==1.18.4
+numpy==1.22.0
 Pillow==8.1.1
 pydub==0.24.1
 requests>=2.23.0
